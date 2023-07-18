@@ -1,5 +1,3 @@
-![download (7)](https://github.com/Manikandandurai-git/hotel-bookings-demand-project/assets/119742683/a8b67242-7a77-4ec7-9d38-61d8b2790a11)
-![download (6)](https://github.com/Manikandandurai-git/hotel-bookings-demand-project/assets/119742683/e5a8d495-9d21-4a7a-9459-b3bb0b91116a)
 # Hotel Booking Demand
 
 This data set contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things.
