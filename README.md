@@ -114,15 +114,15 @@ We learned that
 12. That "BB" is the most demanded meal package of both hotels.<br>
 
 <p float="left" align="middle">  
-  <img src="https://github.com/Manikandandurai-git/hotel-bookings-demand-project/assets/119742683/59d16cb5-1085-4ed2-a717-3e058795de98" width="500"/>
-  <img src="https://github.com/Manikandandurai-git/hotel-bookings-demand-project/assets/119742683/8ddaa7bf-8e27-4a8b-aea1-47aa1327b5ba" width="500" />
-  <img src="https://github.com/Manikandandurai-git/hotel-bookings-demand-project/assets/119742683/2149997d-bc54-4b4a-985c-f7d291b00fc0" width="500" />
+  <img src="https://github.com/Manikandandurai-git/hotel-bookings-demand-project/assets/119742683/59d16cb5-1085-4ed2-a717-3e058795de98" width="400"/>
+  <img src="https://github.com/Manikandandurai-git/hotel-bookings-demand-project/assets/119742683/8ddaa7bf-8e27-4a8b-aea1-47aa1327b5ba" width="400" />
+  <img src="https://github.com/Manikandandurai-git/hotel-bookings-demand-project/assets/119742683/2149997d-bc54-4b4a-985c-f7d291b00fc0" width="400" />
   <img src="https://github.com/Manikandandurai-git/hotel-bookings-demand-project/assets/119742683/8a11dad1-f208-4b1d-ab4f-73cf1fd6dbfb" />
   <img src="https://github.com/Manikandandurai-git/hotel-bookings-demand-project/assets/119742683/0d6c45a1-8393-45a4-9027-e740eb7180fc" />
-  <img src="https://github.com/Manikandandurai-git/hotel-bookings-demand-project/assets/119742683/22357457-2142-4a17-bc43-6b0fee9e0ff5" width="500" />
-  <img src="https://github.com/Manikandandurai-git/hotel-bookings-demand-project/assets/119742683/b8ea840b-9ffc-4b88-8e4f-1a31000bd8c6" width="500" />
-  <img src="https://github.com/Manikandandurai-git/hotel-bookings-demand-project/assets/119742683/f6e13278-6e21-40fe-813c-c25c16d352ba" width="500" />
-  <img src="https://github.com/Manikandandurai-git/hotel-bookings-demand-project/assets/119742683/bc52c086-ffb5-4c39-9fc2-a5e574250958" width="280" />
+  <img src="https://github.com/Manikandandurai-git/hotel-bookings-demand-project/assets/119742683/22357457-2142-4a17-bc43-6b0fee9e0ff5" width="400" />
+  <img src="https://github.com/Manikandandurai-git/hotel-bookings-demand-project/assets/119742683/b8ea840b-9ffc-4b88-8e4f-1a31000bd8c6" width="400" />
+  <img src="https://github.com/Manikandandurai-git/hotel-bookings-demand-project/assets/119742683/f6e13278-6e21-40fe-813c-c25c16d352ba" width="400" />
+  <img src="https://github.com/Manikandandurai-git/hotel-bookings-demand-project/assets/119742683/bc52c086-ffb5-4c39-9fc2-a5e574250958" width="400" />
  </p>
 
 
