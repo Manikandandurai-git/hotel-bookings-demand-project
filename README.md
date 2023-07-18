@@ -113,12 +113,11 @@ We learned that
 12.That "BB" is the most demanded meal package of both hotels
 
 <p float="left" align="middle">  
-  <img src="C:\Users\Siva\Downloads\download.png" width="280" />
+  <img src=![download](https://github.com/Manikandandurai-git/hotel-bookings-demand-project/assets/119742683/59d16cb5-1085-4ed2-a717-3e058795de98)/>
   <img src="https://user-images.githubusercontent.com/37020354/79042912-0e0b4b00-7c15-11ea-956c-c4ffd1c8525f.png" width="280" />
   <img src="https://user-images.githubusercontent.com/37020354/79042909-0b105a80-7c15-11ea-8d4b-317802f73077.png" width="280" />
   <img src="https://user-images.githubusercontent.com/37020354/79042911-0cda1e00-7c15-11ea-98ea-dcc11e217f32.png" />
 </p>
-
 
 
 
