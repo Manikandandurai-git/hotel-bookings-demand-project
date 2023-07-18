@@ -101,17 +101,17 @@ We learned that
 2. More than 60% of the population booked the City hotel.
 3. More than double the rate of bookings were made in 2016, compared to the previous year. But the bookings decreased by almost 15% next year
 4.Most bookings were made from July to August. And the least bookings were made at the start and end of the year.
-5. Portugal-34%, the UK-16%, and France-9% are the top countries from most guests come, more than 59% come from these 3 countries.
-6.Most people stay for one, two, or three.
-   -> For Resort hotel, the most popular stay duration is three, two, one, and four days respectively.
-   -> For City hotel, most popular stay duration is one, two, seven(week), and three respectively
-7.Couple (or 2 adults) is the most popular accommodation type. So hotels can make arrangement plans accordingly
-8.that week number 4 has the high bookings compered to other weeks and its the last week of the month.
-9.Most of the bookings were made through TA/TO (Travel Agent/Tour Operators).
+5. Portugal-34%, the UK-16%, and France-9% are the top countries from most guests come, more than 59% come from these 3 countries.<br>
+6.Most people stay for one, two, or three.<br>
+   -> For Resort hotel, the most popular stay duration is three, two, one, and four days respectively.<br>
+   -> For City hotel, most popular stay duration is one, two, seven(week), and three respectively<br>
+7.Couple (or 2 adults) is the most popular accommodation type. So hotels can make arrangement plans accordingly<br>
+8.that week number 4 has the high bookings compered to other weeks and its the last week of the month.<br>
+9.Most of the bookings were made through TA/TO (Travel Agent/Tour Operators).<br>
 10.In City Hotel 35000+ and while in Resort Hotel 20000+ guests visited more than once which shows the overall service of the city hotels were     
-   -> good.
-11.Room Type A was mostly reserved and demanded in both the hotels.
-12.That "BB" is the most demanded meal package of both hotels.
+   -> good.<br>
+11.Room Type A was mostly reserved and demanded in both the hotels.<br>
+12.That "BB" is the most demanded meal package of both hotels.<br>
 
 <p float="left" align="middle">  
   <img src="https://github.com/Manikandandurai-git/hotel-bookings-demand-project/assets/119742683/59d16cb5-1085-4ed2-a717-3e058795de98" width="280"/>
