@@ -15,7 +15,7 @@ This article on medium explains the entire the process
 - [Files](#Files)
 - [Result](#Result)
 - [Dataset Information](#Dataset-Information)
-  - [Acknowledgements](#Acknowledgements)
+- [Acknowledgements](#Acknowledgements)
 
 ## Motivation
 
@@ -108,9 +108,10 @@ We learned that
 7. Couple (or 2 adults) is the most popular accommodation type. So hotels can make arrangement plans accordingly
 8.that week number 4 has the high bookings compered to other weeks and its the last week of the month.
 9.Most of the bookings were made through TA/TO (Travel Agent/Tour Operators).
-10.In City Hotel 35000+ and while in Resort Hotel 20000+ guests visited more than once which shows the overall service of the city hotels were good.
+10.In City Hotel 35000+ and while in Resort Hotel 20000+ guests visited more than once which shows the overall service of the city hotels were     
+   -> good.
 11.Room Type A was mostly reserved and demanded in both the hotels.
-12.That "BB" is the most demanded meal package of both hotels
+12.That "BB" is the most demanded meal package of both hotels.
 
 <p float="left" align="middle">  
   <img src="https://github.com/Manikandandurai-git/hotel-bookings-demand-project/assets/119742683/59d16cb5-1085-4ed2-a717-3e058795de98" width="280"/>
