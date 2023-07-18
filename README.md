@@ -1,3 +1,5 @@
+![download (7)](https://github.com/Manikandandurai-git/hotel-bookings-demand-project/assets/119742683/a8b67242-7a77-4ec7-9d38-61d8b2790a11)
+![download (6)](https://github.com/Manikandandurai-git/hotel-bookings-demand-project/assets/119742683/e5a8d495-9d21-4a7a-9459-b3bb0b91116a)
 # Hotel Booking Demand
 
 This data set contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things.
@@ -114,12 +116,15 @@ We learned that
 
 <p float="left" align="middle">  
   <img src="https://github.com/Manikandandurai-git/hotel-bookings-demand-project/assets/119742683/59d16cb5-1085-4ed2-a717-3e058795de98" width="280"/>
-  <img src="https://user-images.githubusercontent.com/37020354/79042912-0e0b4b00-7c15-11ea-956c-c4ffd1c8525f.png" width="280" />
-  <img src="https://user-images.githubusercontent.com/37020354/79042909-0b105a80-7c15-11ea-8d4b-317802f73077.png" width="280" />
-  <img src="https://user-images.githubusercontent.com/37020354/79042911-0cda1e00-7c15-11ea-98ea-dcc11e217f32.png" />
-</p>
-
-
+  <img src="https://github.com/Manikandandurai-git/hotel-bookings-demand-project/assets/119742683/8ddaa7bf-8e27-4a8b-aea1-47aa1327b5ba" width="280" />
+  <img src="https://github.com/Manikandandurai-git/hotel-bookings-demand-project/assets/119742683/2149997d-bc54-4b4a-985c-f7d291b00fc0" width="280" />
+  <img src="https://github.com/Manikandandurai-git/hotel-bookings-demand-project/assets/119742683/8a11dad1-f208-4b1d-ab4f-73cf1fd6dbfb" width="280" />
+  <img src="https://github.com/Manikandandurai-git/hotel-bookings-demand-project/assets/119742683/0d6c45a1-8393-45a4-9027-e740eb7180fc" width="280" />
+  <img src="https://github.com/Manikandandurai-git/hotel-bookings-demand-project/assets/119742683/22357457-2142-4a17-bc43-6b0fee9e0ff5" width="280" />
+  <img src="https://github.com/Manikandandurai-git/hotel-bookings-demand-project/assets/119742683/b8ea840b-9ffc-4b88-8e4f-1a31000bd8c6" width="280" />
+  <img src="https://github.com/Manikandandurai-git/hotel-bookings-demand-project/assets/119742683/f6e13278-6e21-40fe-813c-c25c16d352ba" width="280" />
+  <img src="https://github.com/Manikandandurai-git/hotel-bookings-demand-project/assets/119742683/bc52c086-ffb5-4c39-9fc2-a5e574250958" width="280" />
+ </p>
 
 
 
