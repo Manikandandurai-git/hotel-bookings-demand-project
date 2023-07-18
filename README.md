@@ -105,7 +105,7 @@ We learned that
 6. Most people stay for one, two, or three.
   -> For Resort hotel, the most popular stay duration is three, two, one, and four days respectively.
   -> For City hotel, most popular stay duration is one, two, seven(week), and three respectively
-7. Couple (or 2 adults) is the most popular accommodation type. So hotels can make arrangement plans accordingly
+7.Couple (or 2 adults) is the most popular accommodation type. So hotels can make arrangement plans accordingly
 8.that week number 4 has the high bookings compered to other weeks and its the last week of the month.
 9.Most of the bookings were made through TA/TO (Travel Agent/Tour Operators).
 10.In City Hotel 35000+ and while in Resort Hotel 20000+ guests visited more than once which shows the overall service of the city hotels were     
