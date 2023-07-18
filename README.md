@@ -108,8 +108,7 @@ We learned that
 7. Couple (or 2 adults) is the most popular accommodation type. So hotels can make arrangement plans accordingly<br>
 8. that week number 4 has the high bookings compered to other weeks and its the last week of the month.<br>
 9. Most of the bookings were made through TA/TO (Travel Agent/Tour Operators).<br>
-10. In City Hotel 35000+ and while in Resort Hotel 20000+ guests visited more than once which shows the overall service of the city hotels were     
-   -> good.<br>
+10. In City Hotel 35000+ and while in Resort Hotel 20000+ guests visited more than once which shows the overall service of the city hotels were good.<br>
 11. Room Type A was mostly reserved and demanded in both the hotels.<br>
 12. That "BB" is the most demanded meal package of both hotels.<br>
 
