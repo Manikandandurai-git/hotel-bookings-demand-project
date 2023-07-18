@@ -54,10 +54,10 @@ We have used Python 3 to its following packages:
 This repository contains two files other than readme file
 
 **hotel_data:** this file contain x,y-test.csv,model and etc.
-**Hotel_Booking_demand_Model training,prediction.ipynb:** Jupyter Notebook file contains all the python code.
-**EDA-hotel bookings demand** eda, documentation and visualization 
+**Hotel_Booking_demand_Model_training,prediction.ipynb:** Jupyter Notebook file contains all the python code.
+**EDA-hotel_bookings_demand** eda, documentation and visualization 
 **hotel_bookings.csv:** Our dataset file
-**split rawdata test,train.ipynb:**  Jupyter Notebook file contains all the python code,split the whole data into train and test for prediction 
+**split_rawdata_test,train.ipynb:**  Jupyter Notebook file contains all the python code,split the whole data into train and test for prediction 
 
 **Dataset contains following features:**
 1. hotel
@@ -97,11 +97,11 @@ This repository contains two files other than readme file
 ## Result
 
 We learned that
-1. Almost 35% of bookings were canceled.
+1. Almost 28% of bookings were cancelled and 72% were not cancelled.
 2. More than 60% of the population booked the City hotel.
 3. More than double the rate of bookings were made in 2016, compared to the previous year. But the bookings decreased by almost 15% next year
 4.Most bookings were made from July to August. And the least bookings were made at the start and end of the year.
-5. Portugal, the UK, and France, Spain and Germany are the top countries from most guests come, more than 80% come from these 5 countries.
+5. Portugal-34%, the UK-16%, and France-9% are the top countries from most guests come, more than 59% come from these 3 countries.
 6. Most people stay for one, two, or three.
   -> For Resort hotel, the most popular stay duration is three, two, one, and four days respectively.
   -> For City hotel, most popular stay duration is one, two, seven(week), and three respectively
@@ -113,16 +113,13 @@ We learned that
 12.That "BB" is the most demanded meal package of both hotels
 
 <p float="left" align="middle">  
-  <img src="https://user-images.githubusercontent.com/37020354/79042910-0c418780-7c15-11ea-8ddb-f17cf6b1fb2c.png" width="280" />
+  <img src="C:\Users\Siva\Downloads\download.png" width="280" />
   <img src="https://user-images.githubusercontent.com/37020354/79042912-0e0b4b00-7c15-11ea-956c-c4ffd1c8525f.png" width="280" />
   <img src="https://user-images.githubusercontent.com/37020354/79042909-0b105a80-7c15-11ea-8d4b-317802f73077.png" width="280" />
   <img src="https://user-images.githubusercontent.com/37020354/79042911-0cda1e00-7c15-11ea-98ea-dcc11e217f32.png" />
 </p>
 
-<!---
--- ![4](https://user-images.githubusercontent.com/37020354/79042911-0cda1e00-7c15-11ea-98ea-dcc11e217f32.png)
-![1](https://user-images.githubusercontent.com/37020354/79042912-0e0b4b00-7c15-11ea-956c-c4ffd1c8525f.png)
---->
+
 
 
 
