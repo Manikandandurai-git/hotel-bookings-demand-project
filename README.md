@@ -123,6 +123,10 @@ We learned that
   <img src="https://github.com/Manikandandurai-git/hotel-bookings-demand-project/assets/119742683/f6e13278-6e21-40fe-813c-c25c16d352ba" width="400" />
   <img src="https://github.com/Manikandandurai-git/hotel-bookings-demand-project/assets/119742683/bc52c086-ffb5-4c39-9fc2-a5e574250958" width="400" />
  </p>
+## Project Demonstration Video
+
+
+https://github.com/Manikandandurai-git/hotel-bookings-demand-project/assets/119742683/8bf9cb93-1f0f-4647-b4a4-f0c890ab0195
 
 
 
